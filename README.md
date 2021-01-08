@@ -1,4 +1,4 @@
 
-Jenkins Multibranch Pipeline Example Repoo
+Jenkins Multibranch Pipeline Example Repo
 test
 
